@@ -1,0 +1,46 @@
+table, tr, td {
+    border: 1px solid #4f4f4f;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table, thead {
+   font-size: 20px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+ .search-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+ }
+
+ .search-input {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #4f4f4f;
+ }
+
+ .input-checkbox {
+    margin-left: 10px;
+ }
+
+ .search-checkbox {
+   margin-left: 10px;
+   padding: 5px 10px;
+ }
+
+ .btn-add {
+   border: unset;
+   padding: 6px 20px;
+   background:green ;
+   color: white;
+   border-radius: 5px;
+ }
+
+ 
